@@ -3,6 +3,20 @@ This is a test to use the same features with gin and httprouter and compare thei
 
 *The httprouter part is not finished yet. Recovery and logger middlewares are missing.*
 
+## Run
+To run either, run:
+```
+$ go run ./gin
+$ go run ./httprouter
+```
+
+## Build
+To build either, run:
+```
+$ go build ./gin
+$ go build ./httprouter
+```
+
 ## Binary sizes
 |       | gin                 | httprouter                   |
 |-------|---------------------|------------------------------|
