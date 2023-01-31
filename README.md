@@ -25,6 +25,6 @@ $ go build ./httprouter
 ## TODO
 ### httprouter
 * remove httprouter.Params, see: https://github.com/julienschmidt/httprouter#why-doesnt-this-work-with-httphandler
-* implement custom logger
-* implement recovery middleware
+* implement custom logger, see: https://github.com/julienschmidt/httprouter/issues/177
+* implement recovery middleware, https://pkg.go.dev/github.com/julienschmidt/httprouter?utm_source=godoc#Router.PanicHandler
 * fix shutdown
