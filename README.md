@@ -1,7 +1,7 @@
 # gin httprouter dual use
 This is a test to use the same features with gin and httprouter and compare their output size.
 
-*The httprouter part is not finished yet. See: https://github.com/cwansart/gin-httprouter-dual-use#todo *
+*The httprouter part is not finished yet. See: https://github.com/cwansart/gin-httprouter-dual-use#todo*
 
 ## Run
 To run either, run:
